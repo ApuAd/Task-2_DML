@@ -1,1 +1,1 @@
-Find the RESULTS for the quesries in the Task-2_DML PDF. 
+Find the RESULTS for the queries in the Task-2_DML PDF. 
